@@ -1,0 +1,3 @@
+[submodule "tailscale-edgeos"]
+	path = tailscale-edgeos
+	url = https://github.com/jamesog/tailscale-edgeos
