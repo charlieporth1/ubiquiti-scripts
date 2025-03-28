@@ -1,6 +1,6 @@
 #!/bin/bash
-bash
 configure
+bash
 for i in {0..4}
 do
 	delete interfaces bridge br$i
