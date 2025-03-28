@@ -8,5 +8,5 @@ do
 	set interfaces ethernet eth$i vif $(( $i + 1 )) address dhcp
 	set interfaces ethernet eth$i vif $(( $i + 1 )) address dhcpv6
 done
-commit comment "Added bridges vlans"
+commit comment "Added eth vlans"
 save
