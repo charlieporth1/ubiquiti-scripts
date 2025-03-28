@@ -8,3 +8,5 @@ do
 done
 commit comment "Added bridges & eth to brige"
 save
+exit
+exit

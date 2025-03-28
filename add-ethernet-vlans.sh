@@ -10,3 +10,5 @@ do
 done
 commit comment "Added eth vlans"
 save
+exit
+exit

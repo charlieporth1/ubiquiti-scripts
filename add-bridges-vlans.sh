@@ -10,3 +10,5 @@ do
 done
 commit comment "Added bridges vlans"
 save
+exit
+exit

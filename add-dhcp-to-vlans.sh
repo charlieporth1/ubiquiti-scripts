@@ -13,3 +13,5 @@ do
 done
 commit comment "Added dhcp to eth"
 save
+exit
+exit

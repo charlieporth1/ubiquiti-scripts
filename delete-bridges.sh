@@ -1,4 +1,5 @@
 #!/bin/bash
+bash
 configure
 for i in {0..4}
 do
@@ -7,3 +8,5 @@ do
 done
 commit comment "Added bridges"
 save
+exit
+exit
